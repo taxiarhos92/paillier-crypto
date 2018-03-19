@@ -1,0 +1,22 @@
+Logo twn megalwn arithmwn pou paragontai gia
+Nc=10 kai Nv=5 to programma den termatizei
+Dinei apotelesma omws gia mikroterous sundiasmous opws
+Nc=8 kai Nv=4
+Nc=7 kai Nv=5
+Nc=5 kai Nv=9
+
+Gia to 2 meros.
+if (plithos_stelexwn_isopsifoun>1){
+	bale nea bash b_new != b
+
+	sta stelexi pou isopsifoun
+	bale mia psifo se ena random stelexos apayta
+	px. estw isopsifoun ta stelexi 3 kai 5 sth deyterh thesi
+	bale sto m6 mia tyxaia psifo m6=b_new^3 or m6=b_new^5
+	etsi apo ta 2 stelexi pou isopsifousan pleon to ena apo ayta exei mia psifo parapanw.
+	ara anebainei kai kerdizei th 2 thesi
+}
+
+xrisimopoiwntas th sxesh D(E(m1)*E(m2)*E(m3)*E(m4)*E(m5)*g^m6 modn^2)=m1+m2+m3+m4+m5+m6
+opou m6 einai pseutikh psifos pou bazei h arxh 
+kanontas thn apokryptografisi kai analuontas xana to sunolo twn psifwn prokuptei to apotelesma pou theloume
